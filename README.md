@@ -1,12 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Shahebaz Khan</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
+<!-- ✅ Typing SVG -->
 <p align="center">
-  <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&width=600&center=true&lines=Hi%2C+I'm+Shahebaz+Khan!;MERN+Stack+Developer+%7C+Node.js%2C+React%2C+MongoDB;I+love+clean+code%2C+chai+%E2%98%95+%26+lofi+%F0%9F%8E%A7;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shahebaz+Khan!;MERN+Stack+Developer+%7C+Node.js%2C+React%2C+MongoDB;I+love+clean+code+%7C+chai+%E2%98%95+%7C+lofi+%F0%9F%8E%A7;Let's+build+awesome+web+apps+together!+%F0%9F%9A%80" alt="Typing SVG Shahebaz" />
 </p>
 
+<!-- ✅ Professional GIF (from your repo) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4f/4c/bb/4f4cbb2945a087b7e78a47f16b8a05a6.gif" width="320" alt="coding gif" />
+  <img src="https://raw.githubusercontent.com/shahebazk161/shahebazk161/main/assets/dev-coding.gif" width="300" alt="Professional coding gif" />
 </p>
 
 ---
