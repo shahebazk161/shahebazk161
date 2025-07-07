@@ -1,4 +1,4 @@
-## Hi <h1 align="center">Hi 👋, I'm Shahebaz Khan</h1>
+## <h1 align="center">Hi 👋, I'm Shahebaz Khan</h1>
 <h3 align="center">A passionate Full Stack Web Developer (MERN Stack)</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Frontend, Backend, APIs, MongoDB, React, Express**
 
-- 📫 How to reach me: **shahebazk161@gmail.com**
+- 📫 How to reach me: **shahebazk213@gmail.com**
 
 - ⚡ Fun fact: **I debug bugs while drinking chai ☕**
 
@@ -45,7 +45,7 @@
 ### 🔗 Connect With Me
 
 <p>
-  <a href="mailto:shahebazk161@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shahebazk213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/shahebazk161"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
 </p>
 
