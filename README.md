@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFEF&center=true&vCenter=true&width=435&lines=Passionate+MERN+Stack+Developer;Node.js+%7C+React.js+%7C+MongoDB;Chai+%E2%98%95+%2B+Code+%F0%9F%92%BB+%2B+Lofi+Beats+%F0%9F%8E%A7" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&width=600&center=true&lines=Hi%2C+I'm+Shahebaz+Khan!;MERN+Stack+Developer+%7C+Node.js%2C+React%2C+MongoDB;I+love+clean+code%2C+chai+%E2%98%95+%26+lofi+%F0%9F%8E%A7;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+  <img src="https://i.pinimg.com/originals/4f/4c/bb/4f4cbb2945a087b7e78a47f16b8a05a6.gif" width="320" alt="coding gif" />
 </p>
 
 ---
