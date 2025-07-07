@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Backend, Authentication & DevOps**
 - 💬 Ask me about: **React, Node.js, MongoDB, Express.js, REST APIs**
-- 📫 Email: [shahebazk161@gmail.com](mailto:shahebazk161@gmail.com)
+- 📫 Email: [shahebazk213@gmail.com](mailto:shahebazk213@gmail.com)
 - ⚡ Fun fact: I debug bugs while drinking chai ☕ & listening to lo-fi
 
 ---
@@ -64,6 +64,6 @@
 ```js
 while(alive){
   code();
-  chai();
+  music();
   repeat();
 }
